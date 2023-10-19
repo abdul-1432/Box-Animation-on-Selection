@@ -24,7 +24,7 @@ Follow these steps to integrate the box animation into your project:
 2. **Include the CSS and JS Files:**
    Add the `box-animation.css` and `box-animation.js` files to your project. Make sure to include them in your HTML file.
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="path/to/box-animation.css">
    <script src="path/to/box-animation.js"></script>
    ```
@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by [AwesomeAnimations](https://awesomeanimations.com).
+- Inspired by [AwesomeAnimations](https://codepen.io/seyedi/pen/MWZKRyd).
 
 ---
 
