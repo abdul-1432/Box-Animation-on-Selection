@@ -52,7 +52,7 @@ Follow these steps to integrate the box animation into your project:
 
 ## Example
 
-Check out the [demo](https://your-username.github.io/box-animation-demo) to see the box animation in action.
+Check out the [demo](https://codepen.io/seyedi/pen/MWZKRyd) to see the box animation in action.
 
 ## Contributing
 
