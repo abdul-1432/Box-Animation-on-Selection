@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a simple and visually appealing box animation that occurs when a box is selected. The animation enhances user experience and provides a clear indication of the selected box.
+This project demonstrates a simple and visually appealing box animation that occurs when a box is selected. The animation enhances the user experience and provides a clear indication of the selected box.
 
 ## Features
 
@@ -18,7 +18,7 @@ Follow these steps to integrate the box animation into your project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/box-animation.git
+   git clone https://github.com/abdul-1432/Box-Animation-on-Selection
    ```
 
 2. **Include the CSS and JS Files:**
